@@ -1,0 +1,2 @@
+*.log
+!important_errors.log
