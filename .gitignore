@@ -1,2 +1,2 @@
-*.log
-!important_errors.log
+#*.log
+#!important_errors.log
